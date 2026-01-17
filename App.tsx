@@ -20,10 +20,10 @@ const App: React.FC = () => {
       
       {/* Sticky Bottom CTA for Mobile */}
       <div className="fixed bottom-0 left-0 right-0 p-4 bg-slate-900/90 backdrop-blur-md border-t border-slate-800 z-50 md:hidden">
-        <Button href="https://t.me/TonTraderAppBot?start=7339984413" fullWidth pulse className="shadow-blue-500/50">
+        <Button href="https://t.me/roush77" fullWidth pulse className="shadow-blue-500/50 h-14 text-base rounded-2xl">
             <span className="flex items-center gap-2">
-                <MessageCircle size={20} />
-                Запустить Бота
+                <MessageCircle size={18} />
+                Написать Владимиру (@roush77)
             </span>
         </Button>
       </div>
